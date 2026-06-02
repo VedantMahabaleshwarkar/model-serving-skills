@@ -1,6 +1,6 @@
 ---
 name: jira-hygiene
-description: Enforce JIRA hygiene standards on one or many issues — sets story points, team, components, activity type, fix version, and labels. Use this skill when the user says "jira hygiene", "fix jira hygiene", "clean up jiras", "hygiene check", "check my jiras", "fix my sprint hygiene", "enforce jira standards", or wants to ensure their JIRA tickets have required fields filled in correctly. Also trigger when the user mentions missing story points, wrong team, missing components, or activity type on JIRA issues. Trigger on "/jira-hygiene".
+description: Enforce JIRA hygiene standards on one or many issues — sets story points, team, components, activity type, fix version, and labels. Also links CVE/Vulnerability JIRA issues to their source GitHub repos. Use this skill when the user says "jira hygiene", "fix jira hygiene", "clean up jiras", "hygiene check", "check my jiras", "fix my sprint hygiene", "enforce jira standards", "link cve repos", "cve repo linker", or wants to ensure their JIRA tickets have required fields filled in correctly. Also trigger when the user mentions missing story points, wrong team, missing components, activity type on JIRA issues, or linking CVEs to source repos. Trigger on "/jira-hygiene".
 ---
 
 # JIRA Hygiene
