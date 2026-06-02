@@ -1,0 +1,8 @@
+{
+  "name": "model-serving-skills",
+  "version": "0.1.0",
+  "description": "Claude Code skills for the RHOAI Model Serving team — JIRA hygiene, workflow automation, and team-specific tooling.",
+  "author": {
+    "name": "VedantMahabaleshwarkar"
+  }
+}
