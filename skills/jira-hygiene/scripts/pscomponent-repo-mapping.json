@@ -5,10 +5,10 @@
   "odh-kserve-storage-initializer-rhel9": "opendatahub-io/kserve",
   "odh-model-controller-rhel8": "opendatahub-io/odh-model-controller",
   "odh-model-controller-rhel9": "opendatahub-io/odh-model-controller",
-  "odh-modelmesh-rhel8": "opendatahub-io/modelmesh",
-  "odh-modelmesh-rhel9": "opendatahub-io/modelmesh",
-  "odh-modelmesh-runtime-adapter-rhel8": "opendatahub-io/modelmesh-runtime-adapter",
-  "odh-modelmesh-runtime-adapter-rhel9": "opendatahub-io/modelmesh-runtime-adapter",
+  "odh-modelmesh-rhel8": "red-hat-data-services/modelmesh",
+  "odh-modelmesh-rhel9": "red-hat-data-services/modelmesh",
+  "odh-modelmesh-runtime-adapter-rhel8": "red-hat-data-services/modelmesh-runtime-adapter",
+  "odh-modelmesh-runtime-adapter-rhel9": "red-hat-data-services/modelmesh-runtime-adapter",
   "odh-mlserver-rhel9": "opendatahub-io/MLServer",
   "odh-vllm-cuda-rhel9": "opendatahub-io/vllm",
   "odh-vllm-gaudi-rhel9": "opendatahub-io/vllm",
@@ -17,8 +17,8 @@
   "odh-caikit-tgis-serving-rhel9": "opendatahub-io/caikit-tgis-serving",
   "odh-llm-d-inference-scheduler-rhel9": "opendatahub-io/llm-d-inference-scheduler",
   "odh-vllm-cpu-rhel9": "opendatahub-io/vllm",
-  "odh-modelmesh-serving-controller-rhel8": "opendatahub-io/modelmesh-serving",
-  "odh-modelmesh-serving-controller-rhel9": "opendatahub-io/modelmesh-serving",
-  "odh-mm-rest-proxy-rhel8": "opendatahub-io/modelmesh-serving",
-  "odh-mm-rest-proxy-rhel9": "opendatahub-io/modelmesh-serving"
+  "odh-modelmesh-serving-controller-rhel8": "red-hat-data-services/modelmesh-serving",
+  "odh-modelmesh-serving-controller-rhel9": "red-hat-data-services/modelmesh-serving",
+  "odh-mm-rest-proxy-rhel8": "red-hat-data-services/modelmesh-serving",
+  "odh-mm-rest-proxy-rhel9": "red-hat-data-services/modelmesh-serving"
 }
